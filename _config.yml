@@ -100,7 +100,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: poole/poole
+remote_theme: poole/lanyon
 
 titles_from_headings:
   enabled:     true
